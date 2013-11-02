@@ -1,3 +1,7 @@
+// Nathan Hood
+// NJH628
+// Lab3 - part 3: Mock Objects
+
 import junit.framework.*;
 import com.mockobjects.servlet.*;
 
