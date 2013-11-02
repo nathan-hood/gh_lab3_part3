@@ -1,7 +1,7 @@
 // Nathan Hood
 // NJH628
 // Lab3 - part 3: Mock Objects
-//
+// Fall 2013 APT
 
 import junit.framework.*;
 import com.mockobjects.servlet.*;
